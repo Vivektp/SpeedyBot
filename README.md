@@ -18,7 +18,7 @@ For passionate readers 😂 the documentation can be found [here](https://xditya
 
 ## The Easier Way to install
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vivektp/SpeedyBot)
 
 ## Support
 Join [TeleBot Support group](https://t.me/TeleBotSupport) for updates and new plugin suggestions.
