@@ -52,7 +52,7 @@ for name in files:
         shortname = path1.stem
         load_module(shortname.replace(".py", ""))
 
-print("TeleBot has been deployed! ")
+print("SpeedyBot has been deployed! ")
 
 print("Setting up TGBot")
 path = "telebot/plugins/mybot/*.py"
